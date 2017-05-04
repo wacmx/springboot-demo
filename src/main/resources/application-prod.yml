@@ -1,0 +1,8 @@
+#生产环境
+server:
+  port: 8081
+  #context-path: /girl
+girl:
+  cupSize: F
+  age: 18
+  #content: "cupSize: ${cupSize},age: ${age}}"
